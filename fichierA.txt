@@ -1,13 +1,5 @@
-<<<<<<< Updated upstream
-one
-two
-three
-four
-five
-=======
 one 
 two
 three
 yellow
 red
->>>>>>> Stashed changes
